@@ -1,4 +1,4 @@
-export const App = () => {
+export const Feed = () => {
   return (
     <main>
       <h1>Hello world</h1>
